@@ -1,0 +1,25 @@
+FAAST system
+
+Train
+	travel from station to station
+	passengers will touch in and out at station
+	made up of a number of coaches
+
+
+
+Station
+	passengers can be in station
+	passengers can exit station to enter coaches
+	
+
+
+Passenger
+can board coaches
+can exit coaches
+
+
+
+Coaches
+	can hold 40 passengers
+	passengers can exit to the station
+
