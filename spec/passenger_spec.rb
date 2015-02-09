@@ -18,6 +18,8 @@ describe Passenger do
 		expect(passenger.enter_station!(station)).to eq true
 	end
 
-
+	it 'should be able to leave a station' do
+		expect(passenger.exit_station!(station)).to eq true
+	end
 
 end

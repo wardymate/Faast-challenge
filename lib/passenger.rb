@@ -12,5 +12,8 @@ class Passenger
 		true
 	end
 
+	def exit_station!(station)
+		true
+	end
 
 end
